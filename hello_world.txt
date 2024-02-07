@@ -1,1 +1,3 @@
 Hello world, my first update of this file!
+
+testing new commit configuration.
